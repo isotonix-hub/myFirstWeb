@@ -1,0 +1,40 @@
+﻿body {
+background-image:url('16-facts-about-garfield-garfield-1693784365.jpg');
+background-size:1000px;
+
+
+
+}
+
+#form {
+   
+}
+
+.edit{
+    width:200px;   
+    height:25px;
+    text-align:center;
+    font-weight:bold;
+    background-color:lightblue;
+    border-radius:100px;
+  
+}
+
+h1{
+    text-align:center;
+}
+
+
+.data{
+    text-align:center;
+    font-weight:bold;
+    font-style:oblique;
+}
+
+.my-row:hover{
+    background-color:lightblue;
+}
+
+#date {
+    text-align:center;
+}
