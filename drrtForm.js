@@ -354,7 +354,7 @@
     function logOut() {
         sessionStorage
         localStorage
-        window.location.href = 'loginPage.html';
+        window.location.href = 'index.html';
     }
 
 });
